@@ -1,7 +1,6 @@
 # DomainRobustnessData
 
-### Official code repository for the paper: <br> ["Measuring the Robustness of Natural Language Processing Models to Domain Shifts
-"](https://arxiv.org/abs/2306.00168)
+### Official code repository for the paper: <br> ["Measuring the Robustness of Natural Language Processing Models to Domain Shifts"](https://arxiv.org/abs/2306.00168)
 
 If you use this repo please cite our paper:
 
